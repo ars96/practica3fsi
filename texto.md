@@ -1,6 +1,4 @@
-﻿Git merge
-
-# Práctica de GitHub del curso de Profundización en la rama de Ingeniería de Software
+﻿# Práctica de GitHub del curso de Profundización en la rama de Ingeniería de Software
 
 ## Primera parte
 
